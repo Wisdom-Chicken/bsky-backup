@@ -1,0 +1,26 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/multikey/v1",
+    "https://w3id.org/security/suites/secp256k1-2019/v1"
+  ],
+  "id": "did:plc:mdjhvva6vlrswsj26cftjttd",
+  "alsoKnownAs": [
+    "at://laurenshof.online"
+  ],
+  "verificationMethod": [
+    {
+      "id": "did:plc:mdjhvva6vlrswsj26cftjttd#atproto",
+      "type": "Multikey",
+      "controller": "did:plc:mdjhvva6vlrswsj26cftjttd",
+      "publicKeyMultibase": "zQ3shQjjvCvWLqQsiaYvFhU5VqD9Q89YEano9ECKZNYuhKq8o"
+    }
+  ],
+  "service": [
+    {
+      "id": "#atproto_pds",
+      "type": "AtprotoPersonalDataServer",
+      "serviceEndpoint": "https://shimeji.us-east.host.bsky.network"
+    }
+  ]
+}
