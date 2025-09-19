@@ -13,14 +13,14 @@
       "id": "did:plc:mdjhvva6vlrswsj26cftjttd#atproto",
       "type": "Multikey",
       "controller": "did:plc:mdjhvva6vlrswsj26cftjttd",
-      "publicKeyMultibase": "zQ3shQjjvCvWLqQsiaYvFhU5VqD9Q89YEano9ECKZNYuhKq8o"
+      "publicKeyMultibase": "zQ3shdsc8ShEVSWptxBr3gfuDqk9hFx2nrsj4U3tDSxamhW6t"
     }
   ],
   "service": [
     {
       "id": "#atproto_pds",
       "type": "AtprotoPersonalDataServer",
-      "serviceEndpoint": "https://shimeji.us-east.host.bsky.network"
+      "serviceEndpoint": "https://pds.laurenshof.online"
     }
   ]
 }

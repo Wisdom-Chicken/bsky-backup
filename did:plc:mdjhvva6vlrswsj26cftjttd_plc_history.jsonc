@@ -145,3 +145,45 @@
     "atproto": "did:key:zQ3shQjjvCvWLqQsiaYvFhU5VqD9Q89YEano9ECKZNYuhKq8o"
   }
 }
+{
+  "alsoKnownAs": [
+    "at://laurenshof.online"
+  ],
+  "prev": "bafyreicbkqupauamblkwljqcptnfb5t7rd2omputa5byjvfytt2bnq4lfe",
+  "rotationKeys": [
+    "did:key:zQ3shYtpuAgV6GduhUycBvoWzMYXY5ffCFnGEzAJSrK1JKdrD",
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://shimeji.us-east.host.bsky.network",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "7-rzRcTDAnGIJ9vwI4JFTskujH_DNtmF8NnAj-2sTmVyfdKlJEWFlHjj55DlOibg8nGJQUkavoDgOf_8Ot1RIg",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shQjjvCvWLqQsiaYvFhU5VqD9Q89YEano9ECKZNYuhKq8o"
+  }
+}
+{
+  "alsoKnownAs": [
+    "at://laurenshof.online"
+  ],
+  "prev": "bafyreicx6yt5tvmaguly254foyh2xjon5avo3kdj4gnbk24kj2jaxnpgya",
+  "rotationKeys": [
+    "did:key:zQ3shmczrkLQpeN3XBE8Y1ckrCT1QqTghKNtHPZYr5RyYrATm"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://pds.laurenshof.online",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "59bhBJEyWvwzkUMfU6J7cZc33lNbiqceHqvXk4hHvuc4NRLWoblhrssQKNNQgWZmjvj2SzIuLRMwQhih1yG39g",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shdsc8ShEVSWptxBr3gfuDqk9hFx2nrsj4U3tDSxamhW6t"
+  }
+}

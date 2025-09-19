@@ -1,11 +1,10 @@
 {
   "did": "did:plc:mdjhvva6vlrswsj26cftjttd",
   "verificationMethods": {
-    "atproto": "did:key:zQ3shQjjvCvWLqQsiaYvFhU5VqD9Q89YEano9ECKZNYuhKq8o"
+    "atproto": "did:key:zQ3shdsc8ShEVSWptxBr3gfuDqk9hFx2nrsj4U3tDSxamhW6t"
   },
   "rotationKeys": [
-    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
-    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+    "did:key:zQ3shmczrkLQpeN3XBE8Y1ckrCT1QqTghKNtHPZYr5RyYrATm"
   ],
   "alsoKnownAs": [
     "at://laurenshof.online"
@@ -13,7 +12,7 @@
   "services": {
     "atproto_pds": {
       "type": "AtprotoPersonalDataServer",
-      "endpoint": "https://shimeji.us-east.host.bsky.network"
+      "endpoint": "https://pds.laurenshof.online"
     }
   }
 }
